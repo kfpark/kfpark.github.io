@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About kfpark"
-excerpt: "About kfpark"
+title: "K. Francis Park"
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
