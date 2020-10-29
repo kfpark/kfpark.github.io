@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "K. Francis Park"
 title_separator          : "-"
 name                     : &name "K. Francis Park"
-description              : &description "personal description"
+description              : &description "Assistant Professor of Management at Tilburg University"
 url                      : https://kfpark.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kfpark/kfpark.github.io"
@@ -80,12 +80,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "K. Francis Park"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  bio              : "Assistant Professor of Management"
+  location         : "Tilburg"
+  employer         : Tilburg University
+#  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
