@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "kfpark"
+title                    : "k.f.park"
 title_separator          : "-"
 name                     : &name "K. Francis Park"
 description              : &description "Assistant Professor of Management at Tilburg University"
