@@ -87,7 +87,7 @@ author:
   employer         : "Tilburg University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=P4WjQ6IAAAAJ&hl=en"
-  email            : "kpark@uvt.nl"
+  email            : #"kpark@uvt.nl"
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
