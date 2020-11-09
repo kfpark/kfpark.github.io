@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-# Acacemic Appointment
+# Academic Appointment
 * City University of Hong Kong
   * Department of Management
   * Assistant Professor, 2021-
