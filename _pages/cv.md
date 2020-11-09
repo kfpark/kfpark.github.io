@@ -29,6 +29,4 @@ redirect_from:
 * Park & Shapira (2018) Risk taking. *The Palgrave Encyclopedia of Strategic Management*. Palgrave Macmillan, UK.
 
 \
-\
-\
 ***Full CV available upon request.***
