@@ -10,12 +10,12 @@ redirect_from:
 {% include base_path %}
 
 # Acacemic Appointment
-* City University of Hong Kong, 2021-
+* City University of Hong Kong
+  * Assistant Professor, 2021-
   * Department of Management
-  * Assistant Professor
-* Tilburg University, 2018-2020
+* Tilburg University
+  * Assistant Professor, 2018-2020
   * Department of Management
-  * Assistant Professor
 
 # Education
 * Ph.D in Business Administration and Management, New York University, Stern School of Business, 2018
