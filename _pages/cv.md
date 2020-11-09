@@ -9,51 +9,23 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+# Academic Appointment
+* City University of Hong Kong, 2021-
+  * Department of Management
+  * Assistant Professor
+* Tilburg University, 2018-2020
+  * Department of Management
+  * Assistant Professor
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+# Education
+* Ph.D in Business Administration and Management, New York University, Stern School of Business, 2018
+* M.Phil. in Business Administration and Management, New York University, Stern School of Business, 2017
+* B.A. *cum laude* in Econonmics and Psychology with Honors, Northwestern University, 2013
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+# Publications
+* Park, Seamans & Zhu (2020) Multi-homing platform strategies: Historical evidence from the U.S. newspaper industry. *Strategic Management Journal*.
+* Eggers & Park (2018)Incumbent adaptation to technological change: The past, present, and future of research on heterogeneous incumbent response. *Academy of Management Annals*, *12*(1), 357-389.
+* Park & Shapira (2018) Risk and uncertainty. *The Palgrave Encyclopedia of Strategic Management*. Palgrave Macmillan, UK.
+* Park & Shapira (2018) Risk taking. *The Palgrave Encyclopedia of Strategic Management*. Palgrave Macmillan, UK.
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+***Full CV available upon request.***
