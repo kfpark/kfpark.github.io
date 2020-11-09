@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 Acacemic Appointment
-===
+======
 * City University of Hong Kong, 2021-
   * Department of Management
   * Assistant Professor
@@ -30,6 +30,8 @@ Publications
 * Eggers & Park (2018)Incumbent adaptation to technological change: The past, present, and future of research on heterogeneous incumbent response. *Academy of Management Annals*, *12*(1), 357-389.
 * Park & Shapira (2018) Risk and uncertainty. *The Palgrave Encyclopedia of Strategic Management*. Palgrave Macmillan, UK.
 * Park & Shapira (2018) Risk taking. *The Palgrave Encyclopedia of Strategic Management*. Palgrave Macmillan, UK.
-
-======
+\n\n
+\
+\
+\
 ***Full CV available upon request.***
