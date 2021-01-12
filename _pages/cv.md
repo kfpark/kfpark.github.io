@@ -18,9 +18,9 @@ redirect_from:
   * Assistant Professor, 2018-2020
 
 # Education
-* Ph.D. in Business Administration and Management, New York University, Stern School of Business, 2018
-* M.Phil. in Business Administration and Management, New York University, Stern School of Business, 2017
-* B.A. *cum laude* in Econonmics and Psychology with Honors, Northwestern University, 2013
+* Ph.D. in Business Administration and Management, New York University, Stern School of Business
+* M.Phil. in Business Administration and Management, New York University, Stern School of Business
+* B.A. *cum laude* in Econonmics and Psychology with Honors, Northwestern University
 
 # Publications
 * Park, Seamans & Zhu (2020). Multi-homing platform strategies: Historical evidence from the U.S. newspaper industry. *Strategic Management Journal*.
