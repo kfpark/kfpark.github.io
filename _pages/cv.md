@@ -13,7 +13,7 @@ redirect_from:
 * City University of Hong Kong
   * Department of Management
   * Assistant Professor, 2021-
-* Tilburg University
+* Tilburg School of Economics and Management
   * Department of Management
   * Assistant Professor, 2018-2020
 
